@@ -10,6 +10,9 @@
 <a href="https://github.com/KomalBaloch" target="_blank">
   <img src="assets/icons/github.png" width="30" alt="GitHub"/>
 </a>
+<a href="https://komalbaloch.github.io/portfolio/" target="_blank">
+  <img src="assets/icons/portfolio.png" width="30" alt="Portfolio"/>
+</a>
 
 **Name:** Komal Sakhidad  
 **Aspiring Data Scientist**  
