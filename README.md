@@ -4,6 +4,13 @@
 [![GitHub](images/github.png)](https://github.com/KomalBaloch)  
 [![Portfolio](images/website.png)](https://komalbaloch.github.io/portfolio/)
 
+<a href="https://www.linkedin.com/in/KomalBaloch" target="_blank">
+  <img src="assets/icons/linkedin.png" width="30" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/KomalBaloch" target="_blank">
+  <img src="assets/icons/github.png" width="30" alt="GitHub"/>
+</a>
+
 **Name:** Komal Sakhidad  
 **Aspiring Data Scientist**  
 **Email:** komalbalochhasni@gmail.com  
