@@ -1,8 +1,8 @@
 # DevelopersHub Corporation - Data Science & Analytics Internship Tasks
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square) [Komal Baloch](https://www.linkedin.com/in/KomalBaloch)  
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&style=flat-square) [GitHub](https://github.com/KomalBaloch)  
-[Portfolio Website](https://komalbaloch.github.io/portfolio/)  
+![![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/KomalBaloch)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&style=flat-square)](https://github.com/KomalBaloch)  
+[Portfolio Website](https://komalbaloch.github.io/portfolio/)
 
 **Name:** Komal Sakhidad  
 **Aspiring Data Scientist**  
